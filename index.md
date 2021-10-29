@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Pages Built by RJ
 
-You can use the [editor on GitHub](https://github.com/reetanka/reetankatest.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to My first built website. I am a noob in this built though I have already have expirience of building websites uding Wordpress. But Github is totally new to me.
+You can [connect with me](https://www.linkedin.com/in/reetanka-jana/). I have given my Linkedin profile here.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Specifically this site is built using Jekyll which transforms plane texts into Blogs and static websites.
 
 ### Markdown
 
